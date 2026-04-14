@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "Minecraft-font";
+	src: url("fonts/minecraft-ar.woff2");
+	width:normal
+}
+body {
+	background-color:#889200
+}
+p {
+	color:#067386;
+	text-align:center;
+	font-size:110%;
+	font-family:Minecraft-font;
+}
+h1 {
+	color:#067386;
+	text-align:center;
+	font-family:Minecraft-font;
+}
